@@ -14,7 +14,7 @@ Bu PowerShell scripti, uzak cihazların IP adresini, kullanıcı adını ve MAC 
 
 1. **Depoyu Klonlayın**: Bu depoyu yerel bilgisayarınıza klonlayın.
     ```sh
-    git clone https://github.com/kullaniciadi/depo-adi.git
+    git clone https://github.com/HilaliAhmer/Get-DeviceInfo.git
     ```
 
 2. **Script Dizinine Geçin**: Dizin değiştirin ve scriptin bulunduğu klasöre gidin.
