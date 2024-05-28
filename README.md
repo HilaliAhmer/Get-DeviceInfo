@@ -19,7 +19,7 @@ Bu PowerShell scripti, uzak cihazların IP adresini, kullanıcı adını ve MAC 
 
 2. **Script Dizinine Geçin**: Dizin değiştirin ve scriptin bulunduğu klasöre gidin.
     ```sh
-    cd depo-adi
+    cd Get-DeviceInfo
     ```
 
 3. **PowerShell'i Yönetici Olarak Çalıştırın**: PowerShell'i yönetici olarak açın. PowerShell simgesine sağ tıklayın ve "Yönetici olarak çalıştır" seçeneğine tıklayın.
